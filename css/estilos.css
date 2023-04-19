@@ -10,3 +10,28 @@ body {
     margin: 10px 10px 10px 10px;
     color: blue;
 } 
+
+.cabecera{
+    background-color: black;
+    margin: 20px;
+    padding: 0;
+}
+
+.Container{
+    margin: 50px;
+    background-color: bisque;
+    text-align: center;
+}
+
+.Container h1{
+    font-size: 40px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 20px;
+}
+
+.cabecera .Container #logo {
+    margin-top: 10px;
+    width: 20%;
+    vertical-align: middle;
+}
